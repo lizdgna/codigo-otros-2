@@ -87,6 +87,9 @@ crearElemento("Nacionalidad", nacionalidad)
 // elementoLista.appendChild(corteLinea)
 // elementoLista.appendChild(botonBorrar);
 
+//se borro bloque repetido
+
+
  botonBorrar.onclick = function() {
 // this.parentNode.style.display = 'none';
 botonBorrar.parentNode.remove()
